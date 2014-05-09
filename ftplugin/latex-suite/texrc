@@ -232,7 +232,7 @@ TexLet g:Tex_Flavor = 'latex'
 " specifies the BibTeX flavor and if necessary options. If you use $* in this
 " setting, it will be replaced by the *root* of the main file name, i.e, if
 " the main file is "thesis.tex", $* will be "thesis".
-TexLet g:Tex_BibtexFlavor = 'bibtex'
+TexLet g:Tex_BibtexFlavor = 'biber'
 
 " specifies the MakeIndedx flavor and if necessary options. $* will be
 " replaced by the *root* of the main file name. See above.
